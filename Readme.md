@@ -12,7 +12,7 @@
  #### I got the basic understanding of HTML and CSS Animation properties.
    
 
-[Click here to view live 🚀](https://mybonton.netlify.app/ "Street Style Landing Page")
+[Click here to view live 🚀](https://moving-new-car.netlify.app/ "Street Style Landing Page")
 
 ## Screenshot of the Project 👇
 ![](/images/Screenshot%202022-09-14%20at%2010-29-01%20Moving%20Car.png)
